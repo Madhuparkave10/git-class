@@ -1,0 +1,5 @@
+Java Compalination Cmd 
+
+javac filename.javac
+
+java run Cmd
