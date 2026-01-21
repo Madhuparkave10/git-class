@@ -1,3 +1,5 @@
 This is Github Clone  Process
 
 Git Commands
+
+git  ignore
